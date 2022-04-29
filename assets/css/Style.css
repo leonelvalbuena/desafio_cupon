@@ -1,0 +1,13 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+#Cupones .image-top{
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#Recibe-cupones{
+background-size: cover;
+}
